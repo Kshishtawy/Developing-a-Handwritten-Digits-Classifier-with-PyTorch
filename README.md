@@ -30,13 +30,13 @@ Once trained, the neural network’s accuracy on the test set was evaluated. Mod
 
 To ensure the model's reusability, torch.save was used to save the trained model.
 
-## Model Accuracy
+### Model Accuracy
 
 The model was able to achieve an outstanding accuracy of 96.54% on the test set.
 
 ## This was the second project of the "Udacity Machine Learning Fundamentals Nandegree" offered by AWS as part of the "AWS AI & ML scholarship"
 Confirmation  link: [link](https://graduation.udacity.com/confirm/e/ba2b0610-ee8f-11ed-8e43-fbdc25fcc49f)
-
+![Certificate](https://github.com/Kshishtawy/Developing-a-Handwritten-Digits-Classifier-with-PyTorch/blob/main/Certificate/Udacity%20-%20Machine%20Learning%20Fundamentals.png?raw=true)
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
