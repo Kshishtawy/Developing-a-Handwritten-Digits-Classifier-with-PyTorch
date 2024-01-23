@@ -30,6 +30,9 @@ Once trained, the neural network’s accuracy on the test set was evaluated. Mod
 
 To ensure the model's reusability, torch.save was used to save the trained model.
 
+### Step 6: Sanity Checking
+To ensure the model's performance, random samples were selected for predictions and compared against their actual values. Additionally, a confusion matrix was generated to assess the model's accuracy in distinguishing correct predictions from instances where it became confused and misclassified the input.
+
 ### Model Accuracy
 
 The model was able to achieve an outstanding accuracy of 96.54% on the test set.
