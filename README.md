@@ -6,7 +6,7 @@ This project focuses on developing a robust neural network using PyTorch to accu
 
 ## Project Notebooks
 
-For an in-depth walkthrough and detailed explanations, refer to the comprehensive Jupyter Notebook file: [MNIST_Handwritten_Digits-STARTER-main.ipynb](MNIST_Handwritten_Digits-STARTER-main.ipynb).
+For an in-depth walkthrough and detailed explanations, refer to the comprehensive Jupyter Notebook file: [Developing-a-Handwritten-Digits-Classifier-with-PyTorch](https://github.com/Kshishtawy/Developing-a-Handwritten-Digits-Classifier-with-PyTorch/blob/main/Developing-a-Handwritten-Digits-Classifier-with-PyTorch.ipynb)
 
 ## Project summary
 
